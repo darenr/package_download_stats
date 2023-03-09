@@ -1,0 +1,4 @@
+pypistats
+tqdm
+pandas
+xlsxwriter
